@@ -3,7 +3,7 @@ command = "npm run build"
 publish = "public"
 
 [build.environment]
-NODE_VERSION = "14.x"
+NODE_VERSION = "21.1.0"
 
 [[redirects]]
 from = "/*"
